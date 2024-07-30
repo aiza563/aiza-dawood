@@ -1,4 +1,9 @@
 body{
     background-color: antiquewhite;
-    color:black;
+    color:red;
+    padding:0;
+    margin:0;
+}
+h1 {
+    color:white;
 }
